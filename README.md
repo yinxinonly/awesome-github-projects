@@ -37,7 +37,7 @@
 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explan | ⭐ 195,850 | JavaScript |
 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | An Open Source Machine Learning Framework for Everyone | ⭐ 194,771 | C++ |
 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,400+ contributors) framework | ⭐ 186,286 | Shell |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | The repo is finally unlocked. enjoy the party! The fastest repo in his | ⭐ 185,727 | Rust |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | The repo is finally unlocked. enjoy the party! The fastest repo in his | ⭐ 185,728 | Rust |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Co | ⭐ 184,500 | TypeScript |
 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series (2 published editions) on the JS language. | ⭐ 184,438 | N/A |
 
@@ -64,7 +64,7 @@
 - **[facebook/react](https://github.com/facebook/react)** ⭐244,576 — The library for web and native user interfaces.
 - **[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)** ⭐195,850 — 📝 Algorithms and data structures implemented in JavaScript with explanations and links to 
 - **[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** ⭐186,286 — 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your z
-- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐185,727 — The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K
+- **[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)** ⭐185,728 — The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K
 - **[n8n-io/n8n](https://github.com/n8n-io/n8n)** ⭐184,500 — Fair-code workflow automation platform with native AI capabilities. Combine visual buildin
 - **[microsoft/vscode](https://github.com/microsoft/vscode)** ⭐183,967 — Visual Studio Code
 - **[avelino/awesome-go](https://github.com/avelino/awesome-go)** ⭐170,254 — A curated list of awesome Go frameworks, libraries and software
